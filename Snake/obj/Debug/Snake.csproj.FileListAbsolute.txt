@@ -1,0 +1,18 @@
+D:\projektSnake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\projektSnake\Snake\Snake\bin\Debug\Snake.exe
+D:\projektSnake\Snake\Snake\bin\Debug\Snake.pdb
+D:\projektSnake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\projektSnake\Snake\Snake\obj\Debug\Snake.exe
+D:\projektSnake\Snake\Snake\obj\Debug\Snake.pdb
+D:\projektSnake - копия\Snake\Snake\bin\Debug\Snake.exe.config
+D:\projektSnake - копия\Snake\Snake\obj\Debug\Snake.exe
+D:\projektSnake - копия\Snake\Snake\obj\Debug\Snake.pdb
+D:\projektSnake - копия\Snake\Snake\bin\Debug\Snake.exe
+D:\projektSnake - копия\Snake\Snake\bin\Debug\Snake.pdb
+D:\projektSnake - копия\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\резюме\Snake\Snake\bin\Debug\Snake.exe.config
+D:\резюме\Snake\Snake\bin\Debug\Snake.exe
+D:\резюме\Snake\Snake\bin\Debug\Snake.pdb
+D:\резюме\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\резюме\Snake\Snake\obj\Debug\Snake.exe
+D:\резюме\Snake\Snake\obj\Debug\Snake.pdb

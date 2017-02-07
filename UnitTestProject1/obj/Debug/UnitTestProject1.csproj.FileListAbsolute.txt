@@ -1,0 +1,8 @@
+D:\projektSnake\Snake\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\projektSnake\Snake\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\projektSnake\Snake\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\projektSnake\Snake\UnitTestProject1\bin\Debug\Snake.exe
+D:\projektSnake\Snake\UnitTestProject1\bin\Debug\Snake.pdb
+D:\projektSnake\Snake\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\projektSnake\Snake\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\projektSnake\Snake\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
